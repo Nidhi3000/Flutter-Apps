@@ -21,8 +21,8 @@ class MyApp extends StatelessWidget{
           width:MediaQuery.of (context).size.width,
           color:Colors.white,
           child: Column(
-            mainAxisAlignment:MainAxisAlignment.end,
-            crossAxisAlignment:CrossAxisAlignment.end,
+            mainAxisAlignment:MainAxisAlignment.start,
+            crossAxisAlignment:CrossAxisAlignment.start,
             children: [
               Container(
                 height:100,
