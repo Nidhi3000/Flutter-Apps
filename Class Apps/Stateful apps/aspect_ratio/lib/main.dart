@@ -34,11 +34,11 @@ class MainAppState extends State<MainApp> {
         ),
         body: Center(
           child: Container(
-            height: 200,
-            width: 200,
+            height: 195,
+            width: 340,
             color: Color.fromARGB(255, 168, 91, 182),
             child: Image.network(
-              "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS25yndDXuOQehRwxVEa7wlZZSWU1VPHzdJqQ&s",
+              "https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg",
             ),
           ),
         ),
